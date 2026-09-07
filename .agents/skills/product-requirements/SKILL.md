@@ -7,7 +7,7 @@ description: Produce product requirements that connect user outcomes and approve
 
 Read the project brief, approved decisions, relevant evidence, and the current implementation boundary. Match detail to maturity: early concepts need questions and experiments; committed work needs states and acceptance criteria.
 
-Use `templates/product-requirements.md`. Read `references/technical-prd.md` for engineering handoff, service/data behavior, or release-ready scope. The fictional worked example is `projects/relay-sample/deliverables/outreach-workspace/prd.md`.
+Use `templates/product-requirements.md`. Read `references/technical-prd.md` for engineering handoff, service/data behavior, or release-ready scope.
 
 ## Required structure
 

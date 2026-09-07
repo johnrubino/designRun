@@ -22,14 +22,6 @@ I am designing a product called Atlas. It helps independent consultants see whic
 
 The agent should create the project structure when one is needed, read the relevant shared standards, and save durable work in the owning project. You should not have to operate designRun as a separate process or translate ordinary design requests into framework terminology.
 
-The included Relay Sample is fictional teaching material. To inspect it first, ask:
-
-```text
-Show me how the Relay Sample connects its brief, research, decisions, user flow, PRD, and To‑Dos. Do not treat it as evidence for my product.
-```
-
-When you are ready for a clean workspace, follow `docs/sample-project.md` or ask the agent to remove the sample project and its two sample tasks.
-
 Useful first requests:
 
 ```text

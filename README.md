@@ -21,7 +21,6 @@ Codex in the ChatGPT desktop app is recommended because it combines local projec
 - A local control center for To‑Do, Projects, Inspiration, Taste, Design System, Assets, Tools, Skills, and source documents.
 - Editable Markdown as the durable source of truth, with conflict-aware local write-back.
 - Project scaffolds for briefs, evidence, decisions, prototypes, deliverables, and implementation boundaries.
-- A fully fictional worked project with a stateful flow and engineering-ready sample PRD.
 - Fourteen provenance-checked product-reference analyses with inspectable media, canonical owner links, and explicit reuse boundaries.
 - Agent instructions and reusable skills for decisions, research, requirements, flows, critique, design-to-code work, component polish, reference capture, and pattern promotion.
 - A shared design layer that can improve from patterns proven in real product work.
