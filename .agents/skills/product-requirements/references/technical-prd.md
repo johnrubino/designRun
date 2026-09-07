@@ -22,5 +22,5 @@ Translate accessibility, privacy, security, performance, localization, responsiv
 
 Connect `evidence/decision → requirement → acceptance criterion → test or observation`. Unknowns that can change scope remain open questions with owners; they must not be smuggled into acceptance criteria as settled behavior.
 
-Use `templates/product-requirements.md`. The worked fictional example is `projects/relay-sample/deliverables/outreach-workspace/prd.md`.
+Use `templates/product-requirements.md`.
 

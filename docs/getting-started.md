@@ -6,8 +6,6 @@ Open the repository root—not only `app/`—in your agent harness. That is how 
 
 Codex in the ChatGPT desktop app is recommended when you want the agent and designer to share a built-in browser for local product inspection. The file-backed workspace also works without that browser.
 
-Before creating your project, browse `projects/relay-sample/` or open Relay Sample in the control center. It is a fully fictional worked example that connects a brief, synthetic evidence, decisions, a stateful user flow, a technical PRD, prototype notes, and sample tasks. Read `docs/sample-project.md` for the trace and removal steps.
-
 ## 2. Open the optional control center
 
 ```bash

@@ -18,7 +18,7 @@ For visual or interaction work, read `taste/taste.md`, `resources/design-system.
 - If the first message is only a greeting, “what is this?”, or another non-substantive opener, reply with a short welcome that says designRun is already active because this folder is open in the harness. Offer two or three natural examples such as “help me define a new product,” “critique and fix this screen,” or “turn this brief into a tested prototype.” Mention the optional local control center once. Do not force this tour when the user has already asked for substantive work; begin the work instead.
 - When work clearly belongs to a product and no project exists, use the `project-setup` skill and create the project as a normal first step. Ask only when product identity or scope is genuinely ambiguous.
 - If a likely project already exists, inspect it before creating another. Never silently merge similarly named products.
-- `projects/relay-sample/` is fictional teaching material, not a default active project or evidence source. Create a separate project for real work unless the user explicitly asks to adapt the sample.
+- Create a project under `projects/` when work clearly belongs to a product. Never silently merge similarly named products.
 - The control center is optional. Start it when the user asks to browse, edit, or visually inspect the workspace; do not imply that the agent needs the app in order to use the sources.
 - Codex desktop can inspect local product UIs with its built-in browser. In other harnesses, use the strongest available render, screenshot, test, or browser capability and state material verification limits.
 
