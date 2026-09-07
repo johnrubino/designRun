@@ -121,6 +121,10 @@ Projects inherit shared taste and system rules without copying them. Work happen
 
 Read [Getting started](./docs/getting-started.md), [Worked sample](./docs/sample-project.md), [Architecture](./docs/architecture.md), [Workflows](./docs/workflows.md), and the candid [Product readiness review](./docs/product-readiness.md) for the operating model and its deliberate boundaries.
 
+## How this scales
+
+Each product is a full template instance of this repo; shared judgment stays canonical here. See [Workspace topology](./docs/workspace-topology.md).
+
 ## Contributing and support
 
 - Read [CONTRIBUTING.md](./CONTRIBUTING.md) before proposing a change.
